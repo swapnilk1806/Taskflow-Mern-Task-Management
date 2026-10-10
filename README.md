@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TaskFlow — Work, in Flow
 
 TaskFlow is a full-stack task management application built with **React, Vite, Node.js, Express, and MongoDB**. It provides a personal workspace to create and organize tasks, set priorities and due dates, track progress, and review a dashboard with task statistics.
@@ -334,3 +335,6 @@ If this project was developed with AI assistance, update this section to accurat
 ## License
 
 Add a license file and name the license here if you intend to distribute this project publicly.
+=======
+# Taskflow-Mern-Task-Management
+>>>>>>> df89d8ca4878b5079dcaef7830d6bc8fc5dbf48a
